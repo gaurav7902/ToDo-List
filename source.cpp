@@ -123,10 +123,20 @@ public:
     }
 };
 
+void intro()
+{
+	cout<<"\n| LIBRARY";
+	cout<<"\n| MANAGEMENT";
+	cout<<"\n| SYSTEM";
+	cout<<"\n\nMADE BY : Gaurav Patidar";
+	cout<<"\n\nPress ENTER to continue...";
+    cin.get();
+}
+
 int main() {
     TodoList todo;
     int choice;
-
+    intro();
     while (true) {
         cout << "\n--- TO-DO LIST ---\n";
         cout << "1. Add Task\n";
