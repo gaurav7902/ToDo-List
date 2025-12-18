@@ -43,7 +43,7 @@ Tasks are stored persistently in a text file (tasks.txt) using a delimiter-based
 task_id | task_description | completion_status
 This approach avoids unsafe binary serialization and ensures portability.
 
-##🧠 Design Overview
+## 🧠 Design Overview
 Task Class
 
 Stores task ID, description, and completion status
@@ -56,26 +56,19 @@ Manages all task operations
 
 Handles file I/O and data persistence
 
-##🔍 Sample Menu
+## 🔍 Sample Menu
 1. Add Task
 2. View Tasks
 3. Mark Task Completed
 4. Delete Task
 5. Exit
 
-##📈 Possible Enhancements
-
+## 📈 Possible Enhancements
 Task priorities and due dates
-
 Search and filter tasks
-
 Sorting by completion or priority
-
 GUI using Qt
-
 Database or cloud storage integration
-
-##👨‍💻 Author
-
+## 👨‍💻 Author
 Gaurav Patidar
 B.Tech – Computer Science and Engineering
