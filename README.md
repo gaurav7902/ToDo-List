@@ -41,8 +41,8 @@ The application allows users to manage tasks efficiently with persistent storage
 ### Compile
 
 ```bash
-g++ todo.cpp -o todo
-./todo
+g++ source.cpp -o source
+./source
 ```
 
 ---
