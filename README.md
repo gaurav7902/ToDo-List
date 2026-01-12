@@ -96,4 +96,4 @@ This approach avoids unsafe binary serialization and ensures portability.
 ## 👨‍💻 Author
 
 **Gaurav Patidar**  
-B.Tech – Computer Science and Engineering
+B.Tech – Computer Science and Engineering | IIT (ISM) Dhanbad
